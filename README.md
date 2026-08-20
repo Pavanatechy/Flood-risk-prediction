@@ -320,28 +320,3 @@ The final model achieved:
 > **High-Risk F1-score: 71.14%**
 
 The results demonstrate that predictive analytics can support **early-warning systems, evacuation planning, emergency-resource allocation, infrastructure planning, and disaster preparedness**.
-
----
-
-## 👩‍💻 Author
-
-**Pavana V**
-
-MCA Student | Data Science & Machine Learning
-
----
-
-```
-
-### One important thing for your GitHub
-
-If your repository contains the actual notebook, I recommend naming it:
-
-`Flood_Risk_Prediction.ipynb`
-
-and keeping the README as:
-
-`README.md`
-
-Also, **don't add SVM to the README as a completed model unless your notebook actually contains the SVM implementation and results**. You can mention SVM under **Future Improvements**, as I've done above.
-```
